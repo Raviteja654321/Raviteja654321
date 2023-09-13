@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Raviteja Nagulapalli ,<br>I am studying ECE in IIIT Hyderabad ,<br>I am currently Exploring Machine Learning and Bioinformatics.
+Hi 👋, I'm Raviteja Nagulapalli ,<br>I am studying ECE in IIIT Hyderabad ,<br>I am currently Exploring Machine Learning and Biometrics.
 
 
 ## 🌐 Socials:
